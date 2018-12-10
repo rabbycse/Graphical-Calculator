@@ -1,9 +1,8 @@
 # Graphical-Calculator
 
 [![SMS Created](https://img.shields.io/badge/Created-December%202018-brightgreen.svg)](#)
-[![SMS version](https://img.shields.io/badge/Assembly-blue.svg)](#)
-[![SMS Licence](https://img.shields.io/aur/language/Assembly.svg)](#)
-[![SMS Licence](https://img.shields.io/badge/Version-beta-orange.svg)](#)
+[![SMS version](https://img.shields.io/badge/Microprocessor8086-blue.svg)](#)
+[![SMS Licence](https://img.shields.io/badge/language-Assembly-orange.svg)](#)
 
 This project implements a simple calculator which can do binary operations with 8 bit variables.
 
