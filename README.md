@@ -29,7 +29,7 @@ This project implements a simple calculator which can do binary operations with 
 - [x] Click on the operator
 - [x] Input the second value
 - [x] Click on '=' to get the result
-- [x] Click on 'AC' to clear the screen
+- [x] Click on 'A/C' to clear the screen
 
 ![add](https://user-images.githubusercontent.com/37344605/49736457-6692a700-fcb4-11e8-81b7-dacb52d32e57.png) ![sub](https://user-images.githubusercontent.com/37344605/49736464-6b575b00-fcb4-11e8-8780-771aaa4df6d6.png)
 ![mul](https://user-images.githubusercontent.com/37344605/49736471-6f837880-fcb4-11e8-9a88-8791d15bd93d.png) ![div](https://user-images.githubusercontent.com/37344605/49736477-727e6900-fcb4-11e8-8f9b-7d6d96144203.png)
