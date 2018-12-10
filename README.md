@@ -41,7 +41,7 @@ This project implements a simple calculator which can do binary operations with 
 
 ## Conclusion
 
-This project was submitted by me in the Microprocessor amd Assembly Language course(CSE-232).
+This project was submitted by me in the Microprocessor and Assembly Language course(CSE-232).
 
 
 
