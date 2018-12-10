@@ -18,7 +18,8 @@ This project implements a simple calculator which can do binary operations with 
 
 ### December 2018
 - [x] Create 'Calc' Program
-- [x] Can do plus, minus, multiplication with two 8 bit variables
+- [x] Can do plus, minus, division with two 8 bit variables
+- [x] Can do multiplication with two 16 bit variables
 - [x] Two input variables can be taken separately
 - [x] Complete accurate result
 
