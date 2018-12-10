@@ -2,7 +2,7 @@
 
 [![SMS Created](https://img.shields.io/badge/Created-December%202018-brightgreen.svg)](#)
 [![SMS version](https://img.shields.io/badge/Assembly-blue.svg)](#)
-[![SMS Licence](https://img.shields.io/aur/license/yaourt.svg)](#)
+[![SMS Licence](https://img.shields.io/aur/language/Assembly.svg)](#)
 [![SMS Licence](https://img.shields.io/badge/Version-beta-orange.svg)](#)
 
 This project implements a simple calculator which can do binary operations with 8 bit variables.
